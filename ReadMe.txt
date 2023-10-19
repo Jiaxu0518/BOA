@@ -13,13 +13,13 @@ The following are the mappings of these algorithms.
 ---------------------------------------------------
 Code file in BOA project	Algorithm in manuscript
 ---------------------------------------------------
-SegOpt.h					SEGOPT
-Greedy_OT.h					OTGRY
-Greedy_OTVar.h				SEGOTGRY
-SegVarOpt.h					SEGOTOPT
-SegBudOpt.h					SEGBUDOPT
-MBSGA.h						SEGBUDGRY
-Greedy.h					GREEDY
-TBSGA.h						SEGOTBUDGRY
-SegBudVarOpt.h				SEGOTBUDOPT
+SegOpt.h					        SEGOPT
+Greedy_OT.h					      OTGRY
+Greedy_OTVar.h				    SEGOTGRY
+SegVarOpt.h					      SEGOTOPT
+SegBudOpt.h					      SEGBUDOPT
+MBSGA.h						        SEGBUDGRY
+Greedy.h					        GREEDY
+TBSGA.h						        SEGOTBUDGRY
+SegBudVarOpt.h				    SEGOTBUDOPT
 ---------------------------------------------------
